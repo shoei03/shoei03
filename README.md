@@ -13,3 +13,6 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shoei03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Come on, me!
+[![GitHub Streak](https://streak-stats.demolab.com?user=shoei03&theme=dark&locale=ja)](https://git.io/streak-stats)
